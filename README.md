@@ -1,2 +1,2 @@
 # Machine-Learning-RRHH
-Analiza la tasa de abandono del Recurso Humano y calcula el costo de esta incidencia para una empresa con un Historico de 1470 colaboradores.
+Analiza la tasa de abandono del Recurso Humano y transforma la gestion de personal como ventaja competitiva dentro de tu organizacion.
