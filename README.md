@@ -1,6 +1,6 @@
 
 ## MACHINE LEARNING RRHH
-![Logo](https://ethikos.es/wp-content/uploads/2023/01/Modelos-operativos-RRHH-1030x579.png)
+![Logo](https://cdn-icons-png.flaticon.com/128/15541/15541807.png)
 
 
 
